@@ -1,0 +1,5 @@
+Nombre: Mauricio
+Pelicula: avatar
+Num. Boletos: 3
+Total: $300
+

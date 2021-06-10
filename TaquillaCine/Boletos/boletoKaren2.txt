@@ -1,0 +1,5 @@
+Nombre: Karen
+Pelicula: Volver al futuro
+Num. Boletos: 3
+Total: $300
+

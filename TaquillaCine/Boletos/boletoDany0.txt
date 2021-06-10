@@ -1,0 +1,5 @@
+Nombre: Dany
+Pelicula: Avatar
+Num. Boletos: 4
+Total: $400
+

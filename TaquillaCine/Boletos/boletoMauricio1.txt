@@ -1,0 +1,5 @@
+Nombre: Mauricio
+Pelicula: Cars
+Num. Boletos: 3
+Total: $300
+
